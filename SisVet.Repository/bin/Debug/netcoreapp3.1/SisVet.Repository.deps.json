@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SisVet.Repository/1.0.0": {
+        "dependencies": {
+          "SisVet.Model": "1.0.0"
+        },
+        "runtime": {
+          "SisVet.Repository.dll": {}
+        }
+      },
+      "SisVet.Model/1.0.0": {
+        "runtime": {
+          "SisVet.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SisVet.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SisVet.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

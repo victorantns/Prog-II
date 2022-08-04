@@ -1,0 +1,10 @@
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\bin\Debug\netcoreapp3.1\SisVet.Model.deps.json
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\bin\Debug\netcoreapp3.1\SisVet.Model.dll
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\bin\Debug\netcoreapp3.1\SisVet.Model.pdb
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.csproj.AssemblyReference.cache
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.AssemblyInfoInputs.cache
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.AssemblyInfo.cs
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.csproj.CoreCompileInputs.cache
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.dll
+C:\Users\386589\Desktop\Prog II\SISVET.MODEL\SisVet\SisVet.Model\obj\Debug\netcoreapp3.1\SisVet.Model.pdb
